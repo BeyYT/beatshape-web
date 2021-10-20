@@ -419,7 +419,7 @@ gdjs.BeatShape_32directCode.GDNewObject5Objects1.length = 0;
 
 {runtimeScene.getVariables().get("type").setNumber(0);
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.BeatShape_32directCode.mapOfGDgdjs_46BeatShape_9532directCode_46GDNewObject5Objects1Objects, 1000, 464, "");
-}{gdjs.evtTools.network.sendAsyncRequest("http://api.beyyt.live/files/" + gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().get("text")) + ".map", "", "GET", "", runtimeScene.getVariables().get("songup"), gdjs.VariablesContainer.badVariable);
+}{gdjs.evtTools.network.sendAsyncRequest("http://73.98.43.121:728/files/" + gdjs.evtTools.variable.getVariableString(runtimeScene.getVariables().get("text")) + ".map", "", "GET", "", runtimeScene.getVariables().get("songup"), gdjs.VariablesContainer.badVariable);
 }}
 
 }
